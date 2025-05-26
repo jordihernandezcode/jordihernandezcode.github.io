@@ -43,7 +43,7 @@ Cloud computing is *not just a technological upgrade*—it is a **paradigm shift
 
 **References:**
 
-Sachdeva, S., Bhatia, S., Al Harrasi, A., et al. (2024). *Unraveling the role of cloud computing in health care system and biomedical sciences*. Heliyon, 10, e29044. https://doi.org/10.1016/j.heliyon.2024.e29044  
+[Sachdeva, S., Bhatia, S., Al Harrasi, A., et al. (2024). *Unraveling the role of cloud computing in health care system and biomedical sciences*. Heliyon, 10, e29044.] (https://doi.org/10.1016/j.heliyon.2024.e29044)  
 Farbiash, D., & Puzis, R. (2020). *Cyberbiosecurity: DNA injection attack in synthetic biology*. arXiv:2011.14224.
 
 ---
