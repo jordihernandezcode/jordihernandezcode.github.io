@@ -19,6 +19,12 @@ Cloud computing has revolutionized many industries, but few have seen a transfor
 
 In the age of *big data*, genomics has become a central pillar of personalized medicine. Tools like [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi), [Galaxy](https://usegalaxy.org/), and [DNAnexus](https://www.dnanexus.com/) allow researchers to store and analyze terabytes of genetic data directly in the cloud. This not only facilitates collaboration but also **eliminates the need for high-cost infrastructure** at individual research sites.
 
+## 🏥 Cloud in Clinical and Radiological Practice
+
+Cloud computing enables hospitals to deploy **electronic medical records (EMRs)**, imaging systems like **Cloud PACS**, and even **teleradiology**—allowing professionals to diagnose remotely. This is especially crucial in underserved areas where specialists are scarce.
+
+[Electronic Health Records]()
+
 ## ⚠️ Challenges Ahead
 
 While cloud computing brings innovation, **some challenges remain**:
