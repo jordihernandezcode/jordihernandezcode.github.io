@@ -13,5 +13,5 @@ My name is Jordi Hernandez Cano, I am a biomedical engineer currently coursing a
 
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- **Data scientist** on Hospital Universitari Vall d'Hebron (2024 - 2025)
+- **Python Programmer** at Institut Català de Nanotecnología (2025 - present)
