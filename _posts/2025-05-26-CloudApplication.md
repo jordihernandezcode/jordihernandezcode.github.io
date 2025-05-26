@@ -12,4 +12,7 @@ author: Jordi Hernandez
 
 > Cloud computing has emerged as a transformative force in healthcare and biomedical sciences, offering scalable, on-demand resources for managing vast amounts of data. 
 
-These words can be read through the m
+These words echo through the latest articles published in popular scientific databases, such as [Google Scholar][goog scholar] or [PubMed][Pubmed]. 
+
+[goog scholar]: https://scholar.google.com
+[Pubmed]:https://pubmed.ncbi.nlm.nih.gov
