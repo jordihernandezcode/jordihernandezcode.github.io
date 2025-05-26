@@ -23,7 +23,7 @@ In the age of *big data*, genomics has become a central pillar of personalized m
 
 Cloud computing enables hospitals to deploy **electronic medical records (EMRs)**, imaging systems like **Cloud PACS**, and even **teleradiology**—allowing professionals to diagnose remotely. This is especially crucial in underserved areas where specialists are scarce.
 
-![Electronic Health Records](/images/EHR.jpg)
+![Electronic Health Records](/images/EHR.jpg){: .mx-auto.d-block :}
 
 ## ⚠️ Challenges Ahead
 
