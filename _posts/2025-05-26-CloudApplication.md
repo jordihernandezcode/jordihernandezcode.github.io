@@ -29,7 +29,7 @@ Cloud computing enables hospitals to deploy **electronic medical records (EMRs)*
 
 While cloud computing brings innovation, **some challenges remain**:
 
-- Ensuring compliance with laws like *_HIPAA_* and *_GDPR_*
+- Ensuring compliance with laws like _HIPAA_ and _GDPR_
 - Managing data across **hybrid cloud systems**
 - Preventing data breaches, particularly in genomics and synthetic biology
 
